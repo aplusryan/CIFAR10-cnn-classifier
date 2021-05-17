@@ -1,1 +1,7 @@
+CIFAR 10 Dataset Classifier
 
+This my project using CNN's to classify the CIFAR dataset.
+We used 3 convolutional layers, and RELU as the activation function as well.
+We achieve overall 70% success with this project.
+
+Project inspired from UDacity Intro to Deep Learning course.
